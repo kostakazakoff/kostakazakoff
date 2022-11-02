@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ![icons8-about-24](https://user-images.githubusercontent.com/104040753/199598086-fb96e0fa-3b44-47c3-b769-4dd30fbe0b14.png) About Me:
 I'm Kosta. I’m currently learning Python in SoftUni and I really enjoy it.
 
 
