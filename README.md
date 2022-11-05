@@ -1,6 +1,8 @@
 # ![icons8-about-24](https://user-images.githubusercontent.com/104040753/199598086-fb96e0fa-3b44-47c3-b769-4dd30fbe0b14.png) About Me:
 I’m currently learning Python in SoftUni and I really enjoy it. I'm interested in Backend programming, DevOps and... I love to code,  to solve a problems and to explore the world of techs. My goal - became a pro in software development.
 
+Better late than never :smile:
+
 ## ![icons8-geography-24](https://user-images.githubusercontent.com/104040753/199596983-65ad0eea-1fe9-4d27-92f5-16e4716dc777.png) Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kosta-kazakov-533a4529/) 
 
