@@ -1,8 +1,8 @@
 ## About Me:
 
-> "I never let my schooling interfere with my education."
-> <br>
-> Mark Twain
+### *"I never let my schooling interfere with my education."*
+
+Mark Twain
 
 
 ## Socials:
