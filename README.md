@@ -54,10 +54,7 @@
         </td>
     </tr>
     <tr>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=symfony" width="48" height="48" alt="bootstrap" />
-            <br>Symfony
-        </td>
+        
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=py" alt="icon" width="48" height="48" />
             <br>Python
