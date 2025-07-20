@@ -94,10 +94,6 @@
             <br>Linux
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=mint" alt="icon" width="48" height="48" />
-            <br>Mint
-        </td>
-        <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=windows" alt="icon" width="48" height="48" />
             <br>Windows
         </td>
